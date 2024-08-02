@@ -1,0 +1,14 @@
+/Users/macbook/Documents/Examination_System/Examination_System/bin/Debug/net8.0/Examination_System
+/Users/macbook/Documents/Examination_System/Examination_System/bin/Debug/net8.0/Examination_System.deps.json
+/Users/macbook/Documents/Examination_System/Examination_System/bin/Debug/net8.0/Examination_System.runtimeconfig.json
+/Users/macbook/Documents/Examination_System/Examination_System/bin/Debug/net8.0/Examination_System.dll
+/Users/macbook/Documents/Examination_System/Examination_System/bin/Debug/net8.0/Examination_System.pdb
+/Users/macbook/Documents/Examination_System/Examination_System/obj/Debug/net8.0/Examination_System.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/Examination_System/Examination_System/obj/Debug/net8.0/Examination_System.AssemblyInfoInputs.cache
+/Users/macbook/Documents/Examination_System/Examination_System/obj/Debug/net8.0/Examination_System.AssemblyInfo.cs
+/Users/macbook/Documents/Examination_System/Examination_System/obj/Debug/net8.0/Examination_System.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/Examination_System/Examination_System/obj/Debug/net8.0/Examination_System.dll
+/Users/macbook/Documents/Examination_System/Examination_System/obj/Debug/net8.0/refint/Examination_System.dll
+/Users/macbook/Documents/Examination_System/Examination_System/obj/Debug/net8.0/Examination_System.pdb
+/Users/macbook/Documents/Examination_System/Examination_System/obj/Debug/net8.0/Examination_System.genruntimeconfig.cache
+/Users/macbook/Documents/Examination_System/Examination_System/obj/Debug/net8.0/ref/Examination_System.dll
